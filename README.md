@@ -1,7 +1,6 @@
 ## Olá, my name is Janderson C Rodrigues
 
 - 👋 Hi, I’m @Janderson-Rodrigues
-- 🌱 I’m currently learning desenvolvimento web 
 - 💻 ⚙️ Software Engineer
 
 <div style="display: inline_block"><br>
