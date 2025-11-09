@@ -1,6 +1,5 @@
-## Olá, my name is Janderson C Rodrigues
+##  👋 Hi, I’m @Janderson-Rodrigues Backend develope
 
-- 👋 Hi, I’m @Janderson-Rodrigues Backend developer
 - 💻 ⚙️ Software Engineer
 
 <div style="display: inline_block"><br>
